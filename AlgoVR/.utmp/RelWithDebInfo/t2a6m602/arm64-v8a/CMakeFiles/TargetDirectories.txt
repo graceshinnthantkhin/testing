@@ -1,0 +1,5 @@
+C:/Users/user/Desktop/CMKL/Git/Algorithmica/AlgoVR/.utmp/RelWithDebInfo/t2a6m602/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CMKL/Git/Algorithmica/AlgoVR/.utmp/RelWithDebInfo/t2a6m602/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/user/Desktop/CMKL/Git/Algorithmica/AlgoVR/.utmp/RelWithDebInfo/t2a6m602/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/user/Desktop/CMKL/Git/Algorithmica/AlgoVR/.utmp/RelWithDebInfo/t2a6m602/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/CMKL/Git/Algorithmica/AlgoVR/.utmp/RelWithDebInfo/t2a6m602/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
